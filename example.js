@@ -1,0 +1,3 @@
+const hottie = require('./')
+
+hottie()

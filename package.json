@@ -1,0 +1,24 @@
+{
+  "name": "hottie",
+  "version": "1.0.0",
+  "description": "A hot reload for your hot website.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "zoroaster test/spec",
+    "test-watch": "zoroaster test/spec --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Sobesednik/hottie.git"
+  },
+  "keywords": ["hottie"],
+  "author": "Anton <anton@sobes.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sobesednik/hottie/issues"
+  },
+  "homepage": "https://github.com/Sobesednik/hottie#readme",
+  "devDependencies": {
+    "zoroaster": "0.5.3"
+  }
+}
